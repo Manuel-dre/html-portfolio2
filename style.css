@@ -1,0 +1,22 @@
+html{ background-color: #123927;
+}
+h1{
+    color: #FEC96F;
+    font-weight: 100;
+
+}
+h2{
+    color: #23D567;
+}
+i{
+    font-weight: 900;
+}
+img{
+    margin-left: 50%
+     ;
+     border: 5px solid white;
+}
+footer{
+    text-align: center;
+    padding: 5px;
+}
